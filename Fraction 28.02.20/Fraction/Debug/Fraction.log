@@ -1,0 +1,5 @@
+﻿  Fraction.cpp
+C:\Users\inko1\Desktop\Fraction\Fraction\Fraction.cpp(264,24): warning C4018: '<=': signed/unsigned mismatch
+  Menu.cpp
+  Generating Code...
+  Fraction.vcxproj -> C:\Users\inko1\Desktop\Fraction\Debug\Fraction.exe
