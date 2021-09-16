@@ -1,0 +1,11 @@
+Level: 1	Remaining lives: 0	Remaining ghosts: 0	Score: 4140	Timer: 2:30
+Level: 1	Remaining lives: 0	Remaining ghosts: 3	Score: 1410	Timer: 2:48
+Level: 1	Remaining lives: 0	Remaining ghosts: 2	Score: 1300	Timer: 1:03
+Level: 2	Remaining lives: 0	Remaining ghosts: 4	Score: 150	Timer: 0:18
+Level: 1	Remaining lives: 0	Remaining ghosts: 2	Score: 1880	Timer: 1:35
+Level: 1	Remaining lives: 0	Remaining ghosts: 2	Score: 1950	Timer: 1:54
+Level: 4	Remaining lives: 1	Remaining ghosts: 4	Score: 280	Timer: 1:45
+Level: 6	Remaining lives: 0	Remaining ghosts: 4	Score: 170	Timer: 2:31
+Level: 1	Remaining lives: 0	Remaining ghosts: 4	Score: 340	Timer: 0:53
+Level: 2	Remaining lives: 0	Remaining ghosts: 3	Score: 800	Timer: 3:35
+Level: 1	Remaining lives: 0	Remaining ghosts: 3	Score: 1330	Timer: 1:28

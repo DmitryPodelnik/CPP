@@ -1,0 +1,5 @@
+The file has been created!
+Error: The first string
+Error: The second string
+Error: The third string
+Warning: The fouth string
